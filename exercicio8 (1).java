@@ -2,9 +2,8 @@ import java.util.Scanner;
 
 public class exercicio8 {
 public static void main(String[] args) {
-  
-    Scanner scanner = new Scanner(System.in);
 
+    Scanner scanner = new Scanner(System.in);
 
     for (int aluno = 1; aluno <= 5; aluno++) {
         double nota1 = 0;
